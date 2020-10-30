@@ -3,7 +3,7 @@ layout: default
 permalink: previous.html
 ---
 
-# Previous
+# Previous work
 
 
 [back](./)
