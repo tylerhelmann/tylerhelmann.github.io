@@ -5,5 +5,4 @@ permalink: research.html
 
 # Research
 
-
 [back](./)
