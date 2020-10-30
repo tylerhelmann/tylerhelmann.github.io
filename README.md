@@ -2,6 +2,10 @@
 
 ### This site is currently under construction
 
+
+<img align="center" src="src/in_lab.jpg" width="50%" height="50%" hspace="25">
+
+
 ### Links
 
 
