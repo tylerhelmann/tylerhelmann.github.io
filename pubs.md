@@ -7,7 +7,7 @@ permalink: pubs.html
 
 ### Primary publications
 
-***Helmann TC***, King DM, Lindow SE. [Differential virulence contributions of the efflux transporter MexAB-OprM in *Pseudomonas syringae* infecting a variety of host plants](https://doi.org/10.1101/2020.03.04.959429). 2020. BioRxiv.
+***Helmann TC***, King DM, Lindow SE. [Differential virulence contributions of the efflux transporter MexAB-OprM in *Pseudomonas syringae* infecting a variety of host plants](https://doi.org/10.1101/2020.03.04.959429). BioRxiv. 2020. 
 
 ***Helmann TC***, Deutschbauer AM, Lindow SE. [Distinctiveness of genes contributing to growth of *Pseudomonas syringae* in diverse host plant species](https://doi.org/10.1371/journal.pone.0239998). PLOS ONE. 2020, 15(9):e0239998. 
 
