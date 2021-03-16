@@ -19,7 +19,7 @@ permalink: pubs.html
 
 ### Co-author publications
 
-Asselin JAE, Bonasera JM, ***Helmann TC***, Beer SV, and Stodghill PV. Complete genome sequence resources for the onion pathogen, *Pantoea ananatis* OC5a. Phytopathology. 2021
+Asselin JAE, Bonasera JM, ***Helmann TC***, Beer SV, and Stodghill PV. [Complete genome sequence resources for the onion pathogen, *Pantoea ananatis* OC5a](https://doi.org/10.1094/PHYTO-09-20-0416-A). Phytopathology. 2021
 
 Georgoulis S, Shalvarjian KE, ***Helmann TC***, Hamilton CD, Carlson HK, Deutschbauer AM, Lowe-Power TM. [Genome-wide identification of tomato xylem sap fitness factors for *Ralstonia pseudosolanacearum* and *Ralstonia syzygii*](https://doi.org/10.1101/2020.08.31.276741). BioRxiv. 2020.
 
